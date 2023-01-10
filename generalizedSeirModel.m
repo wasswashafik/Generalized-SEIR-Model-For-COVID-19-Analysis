@@ -1,8 +1,6 @@
 %{
 
-    COVID-19 Analisis With The Generalized SEIR Model Implemented With Rungge Kutta of 4th order (RK4)    
-    Ricardo López Rodríguez.
-
+    Code for reproduced code for: COVID-19 Analisis With The Generalized SEIR Model Implemented With Rungge Kutta of 4th order (RK4)    
     S --> Susceptible
     P --> Insusceptible
     E --> Exposed
@@ -13,7 +11,6 @@
     
     References:
     https://arxiv.org/pdf/2002.06563.pdf
-    https://iopscience.iop.org/article/10.1088/1742-6596/1040/1/012021/pdf
 %}
 
 
