@@ -1,6 +1,6 @@
 %{
 
-    Code for reproduced code for: COVID-19 Analisis With The Generalized SEIR Model Implemented With Rungge Kutta of 4th order (RK4)    
+    Code for reproduced paper results: COVID-19 Analisis With The Generalized SEIR Model Implemented With Rungge Kutta of 4th order (RK4)    
     S --> Susceptible
     P --> Insusceptible
     E --> Exposed
